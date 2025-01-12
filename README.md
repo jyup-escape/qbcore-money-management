@@ -1,1 +1,4 @@
 # qbcore-money-management
+```
+/showbalances
+```
